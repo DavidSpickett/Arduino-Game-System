@@ -1,0 +1,62 @@
+Partlist
+
+Exported from schematic.sch at 06/04/2011 14:57
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part         Value          Device         Package    Library            Sheet
+
+AUDIO                       PINHD-1X2      1X02       pinhead            1
+C1           22pF           C2,5-3         C2.5-3     capacitor-wima     1
+C2           10uF           CPOL-EUB45181A B45181A    resistor           1
+C3           1uF            CPOL-EUB45181A B45181A    resistor           1
+C4           22pF           C2,5-3         C2.5-3     capacitor-wima     1
+COLREGISTER1 74HCT595N      74HCT595N      DIL16      74xx-eu            1
+COLREGISTER2 74HCT595N      74HCT595N      DIL16      74xx-eu            1
+CONTROLLER1  4021N          4021N          DIL16      40xx               1
+CONTROLLER2  4021N          4021N          DIL16      40xx               1
+G1           AB9V           AB9V           AB9V       battery            1
+I1                          10-XX          B3F-10XX   switch-omron       1
+I2                          10-XX          B3F-10XX   switch-omron       1
+I3                          10-XX          B3F-10XX   switch-omron       1
+I4                          10-XX          B3F-10XX   switch-omron       1
+I5                          10-XX          B3F-10XX   switch-omron       1
+I6                          10-XX          B3F-10XX   switch-omron       1
+I7                          10-XX          B3F-10XX   switch-omron       1
+I8                          10-XX          B3F-10XX   switch-omron       1
+IC1          7805T          7805T          TO220H     linear             1
+IC2          MEGA8-P        MEGA8-P        DIL28-3    atmel              1
+JP1                         PINHD-1X8      1X08       pinhead            1
+LED1         TC20-11HWA     TC20-11HWA     TA20-11HWA display-kingbright 1
+LED2         TC20-11HWA     TC20-11HWA     TA20-11HWA display-kingbright 1
+MODE                        SW_DIP-4       EDG-04     special            1
+Q1           16MHz          CRYSTALHC49U70 HC49U70    crystal            1
+R1           10k            R-EU_0204/7    0204/7     resistor           1
+R2           10k            R-EU_0204/7    0204/7     resistor           1
+R3           10k            R-EU_0204/7    0204/7     resistor           1
+R4           10k            R-EU_0204/7    0204/7     resistor           1
+R5           10k            R-EU_0204/7    0204/7     resistor           1
+R6           10k            R-EU_0204/7    0204/7     resistor           1
+R7           10k            R-EU_0204/7    0204/7     resistor           1
+R8           10k            R-EU_0204/7    0204/7     resistor           1
+R9           10k            R-EU_0204/7    0204/7     resistor           1
+R10          10k            R-EU_0204/7    0204/7     resistor           1
+R11          10k            R-EU_0204/7    0204/7     resistor           1
+R12          10k            R-EU_0204/7    0204/7     resistor           1
+R13          10k            R-EU_0204/7    0204/7     resistor           1
+R14          470            R-EU_0204/7    0204/7     resistor           1
+R15          470            R-EU_0204/7    0204/7     resistor           1
+R16          470            R-EU_0204/7    0204/7     resistor           1
+R17          470            R-EU_0204/7    0204/7     resistor           1
+R18          470            R-EU_0204/7    0204/7     resistor           1
+R19          470            R-EU_0204/7    0204/7     resistor           1
+R20          470            R-EU_0204/7    0204/7     resistor           1
+R21          470            R-EU_0204/7    0204/7     resistor           1
+R22          470            R-EU_0204/7    0204/7     resistor           1
+R23          470            R-EU_0204/7    0204/7     resistor           1
+RESET                       10-XX          B3F-10XX   switch-omron       1
+ROWREGISTER1 74HCT595N      74HCT595N      DIL16      74xx-eu            1
+ROWREGISTER2 74HCT595N      74HCT595N      DIL16      74xx-eu            1
+RST                         PINHD-1X1      1X01       pinhead            1
+SERIAL                      PINHD-1X2      1X02       pinhead            1
+VOLUME       10K            TRIM_EU-S63S   S63S       pot                1

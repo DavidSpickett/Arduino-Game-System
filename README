@@ -1,0 +1,13 @@
+This is my second year design project. The module was based around the Arduino system and I chose to build a simple hand held game system using L.E.D. grids as displays.
+
+Final report - full documentation of the project
+parts.txt - parts list as exported from Eagle
+Eagle Files - board layout and schematic created in Eagle
+pong_PCB - the final demo application for the device, plays one or two player pong at a set speed.
+scoll_text_PCB - a demo which scrolls a long piece of text across the displays.
+Final board - a picture of the final assembled device
+Final PCB - the final board layout
+Final schematic - the final schematic for the system
+Programming - the board begin programmed using an empty Arduino
+Prototype hardware - the initial hardware for the system
+Data Sheets - data sheets for the main components used
